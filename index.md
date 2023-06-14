@@ -1,6 +1,6 @@
-# Estórias infantis do Preguinho
+# Histórias infantis do Preguinho
 
-Estórias escritas pelo chatGPT e por mim :)
+Histórias escritas pelo chatGPT e por mim :)
 
 índice
 
